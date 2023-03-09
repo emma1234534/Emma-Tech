@@ -5,7 +5,7 @@
                 Latest <span class="text-blue-500">Laravel From Scratch</span> News
             </h1>
 
-            <h2 class="inline-flex mt-2">By Lary Laracore <img src="./assets/images/lary-head.svg"
+            <h2 class="inline-flex mt-2">By Lary Laracore <img src="src/assets/images/lary-head.svg"
                                                                alt="Head of Lary the mascot"></h2>
 
             <p class="text-sm mt-14">
